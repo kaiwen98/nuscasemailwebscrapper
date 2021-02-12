@@ -1,0 +1,11 @@
+/our-network/community-clubs/locate-cc/detail/ACE-The-Place-Community-Club
+/our-network/community-clubs/locate-cc/detail/Aljunied-Community-Centre
+/our-network/community-clubs/locate-cc/detail/Anchorvale-Community-Club
+/our-network/community-clubs/locate-cc/detail/Ang-Mo-Kio-Community-Centre
+/our-network/community-clubs/locate-cc/detail/Ayer-Rajah-Community-Club
+/our-network/community-clubs/locate-cc/detail/Bedok-Community-Centre
+/our-network/community-clubs/locate-cc/detail/Bishan-Community-Club
+/our-network/community-clubs/locate-cc/detail/Boon-Lay-Community-Club
+/our-network/community-clubs/locate-cc/detail/Braddell-Heights-Community-Club
+/our-network/community-clubs/locate-cc/detail/Bukit-Batok-Community-Club
+
